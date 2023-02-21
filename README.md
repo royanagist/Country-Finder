@@ -6,7 +6,7 @@ The data ini this project are taken from <a href="https://restcountries.com/">RE
 
 ## Project overview
 
-<img src="https://github.com/royanagist/Country-Finder/blob/master/src/public/Overview.png?raw=true" alt="overview" width="200"/>
+<img src="https://github.com/royanagist/Country-Finder/blob/master/src/public/Overview.png?raw=true" alt="overview" width="100%"/>
 
 ## Installation
 
