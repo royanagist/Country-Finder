@@ -6,8 +6,7 @@ The data ini this project are taken from <a href="https://restcountries.com/">RE
 
 ## Project overview
 
-<img src="https://github.com/royanagist/Country-Finder/blob/master/src/public/overview.png?raw=true" alt="logo" width="200"/>
-This project has been deployed at <a href="https://caturharjo-sehat.web.app/">caturharjo-sehat.web.app</a>
+<img src="https://github.com/royanagist/Country-Finder/blob/master/src/public/Overview.png?raw=true" alt="overview" width="200"/>
 
 ## Installation
 
